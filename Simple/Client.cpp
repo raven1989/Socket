@@ -5,6 +5,9 @@
 #include<netinet/in.h>
 #include<time.h>
 #include<arpa/inet.h>
+#include<cstdlib>
+#include<cstdio>
+#include<cstring>
 
 using namespace std;
 
